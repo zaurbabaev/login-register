@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "48c2",
+      "email": "test@mail.ru",
+      "password": "1234"
+    },
+    {
+      "id": "774f",
+      "email": "zaur@mail.ru",
+      "password": "123456"
+    },
+    {
+      "id": "821a",
+      "email": "qasiweg@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1954",
+      "email": "lygin@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1a5b",
+      "email": "cehowaqu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1952",
+      "email": "honetu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "17fc",
+      "email": "seli@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "d479",
+      "email": "hiqupanyke@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "dcee",
+      "email": "typycyn@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "0851",
+      "email": "jutezelabo@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "a768",
+      "email": "dukix@mailinator.com",
+      "password": "Pa$$w0rd!"
+    }
+  ]
+}
